@@ -45,3 +45,33 @@ Each of the three trades (Main, Secondary, Second of Secondary) has:
 
 ## 📂 File Structure
 
+mt5-bbands-rsi-ea/
+├── BbRsiEa.mq5
+├── README.md
+└── screenshots/
+└── panel-preview.png
+
+
+## ✅ Usage Instructions
+
+1. Open MetaEditor in MetaTrader 5
+2. Create a new EA named `BbRsiEa.mq5` and paste the code
+3. Compile and attach to any chart
+4. Adjust input parameters as needed
+5. Test in strategy tester or live environment
+
+## 📄 License
+
+MIT or personal use (adjust as needed)
+
+---
+
+## 🙋‍♂️ Author
+
+**Mikhail Krygin**  
+Kyiv, Ukraine  
+textyping2@gmail.com  
+[GitHub Profile](https://github.com/MishaDeveloper)
+
+
+
