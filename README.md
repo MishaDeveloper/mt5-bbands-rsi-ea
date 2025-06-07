@@ -56,9 +56,13 @@ Each of the three trades (Main, Secondary, Second of Secondary) has:
 ## 📂 File Structure
 
 mt5-bbands-rsi-ea/
+
 ├── BbRsiEa.mq5
+
 ├── README.md
+
 └── screenshots/
+
 └── panel-preview.png
 
 
