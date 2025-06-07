@@ -41,7 +41,7 @@ Each of the three trades (Main, Secondary, Second of Secondary) has:
 
 ## 📸 Screenshot
 
-[Panel preview](screenshots/panel-preview.png)
+[Backtesting results](screenshots/panel-preview.png)
 
 ---
 
